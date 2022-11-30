@@ -3,23 +3,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kim-dev-git/WAZone-Web">
+  <a href="https://github.com/tahaluindo/WAZone-Web">
     <img src="docs/logo.png" alt="Logo" width="240" height="60">
   </a>
 
-<h3 align="center">WAZONE - Web</h3>
+<h3 align="center">WAZONE - Web Server</h3>
 
   <p align="center">
-    This project was created to fulfill the job acceptance test at KreatifIndo
+    This project was created to fulfill the job acceptance at KreatifIndo
     <br />
-    <a href="https://github.com/kim-dev-git/WAZone-Web"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tahaluindo/WAZone-Web"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kim-dev-git/WAZone-Web">View Demo</a>
+    <a href="https://github.com/tahaluindo/WAZone-Web">View Demo</a>
     ·
-    <a href="https://github.com/kim-dev-git/WAZone-Web/issues">Report Bug</a>
+    <a href="https://github.com/tahaluindo/WAZone-Web/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kim-dev-git/WAZone-Web/issues">Request Feature</a>
+    <a href="https://github.com/tahaluindo/WAZone-Web/issues">Request Feature</a>
   </p>
 </div>
 
@@ -63,7 +63,7 @@ Build Web App to consume/visualize [this API/Service](https://github.com/kim-dev
 * Show received WhatsApp message
 * Send received WhatsApp message
 * Get WhatsApp contacts
-* Able to login Multi Device
+* Table to login Multi Device
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +108,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kim-dev-git/WAZone-Web.git
+   git clone https://github.com/tahaluindo/WAZone-Web.git
    ```
 2. Open the project folder
     ```sh
@@ -158,28 +158,43 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-Kiki Irwan Maulana - kiki.im.dev@gmail.com
+anonsecteaminc@gmail.com
 
-Project Link: [https://github.com/kim-dev-git/WAZone-Web](https://github.com/kim-dev-git/WAZone-Web)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kim-dev-git/WAZone-Web.svg?style=for-the-badge
-[contributors-url]: https://github.com/kim-dev-git/WAZone-Web/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kim-dev-git/WAZone-Web.svg?style=for-the-badge
-[forks-url]: https://github.com/kim-dev-git/WAZone-Web/network/members
-[stars-shield]: https://img.shields.io/github/stars/kim-dev-git/WAZone-Web.svg?style=for-the-badge
-[stars-url]: https://github.com/kim-dev-git/WAZone-Web/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kim-dev-git/WAZone-Web.svg?style=for-the-badge
-[issues-url]: https://github.com/kim-dev-git/WAZone-Web/issues
-[license-shield]: https://img.shields.io/github/license/kim-dev-git/WAZone-Web.svg?style=for-the-badge
-[license-url]: https://github.com/kim-dev-git/WAZone-Web/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/tahaluindo/WAZone-Server.svg?style=for-the-badge
+[contributors-url]: https://github.com/tahaluindo/WAZone-Server/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tahaluindo/WAZone-Server.svg?style=for-the-badge
+[forks-url]: https://github.com/tahaluindo/WAZone-Server/network/members
+[stars-shield]: https://img.shields.io/github/stars/tahaluindo/WAZone-Server.svg?style=for-the-badge
+[stars-url]: https://github.com/tahaluindo/WAZone-Server/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tahaluindo/WAZone-Server.svg?style=for-the-badge
+[issues-url]: https://github.com/tahaluindo/WAZone-Server/issues
+[license-shield]: https://img.shields.io/github/license/tahaluindo/WAZone-Server.svg?style=for-the-badge
+[license-url]: https://github.com/tahaluindo/WAZone-Server/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
+[product-screenshot]: images/screenshot.png
+[express.js]: https://img.shields.io/badge/Express-35495E?style=for-the-badge&logo=express&logoColor=4FC08D
+[express-url]: https://express.org/
+[typeorm.js]: https://img.shields.io/badge/Type_ORM-35495E?style=for-the-badge&logo=typeorm&logoColor=4FC08D
+[typeorm-url]: https://typeorm.io/
+[baileys.js]: https://img.shields.io/badge/Baileys-35495E?style=for-the-badge&logo=baileys&logoColor=4FC08D
+[baileys-url]: https://github.com/adiwajshing/Baileys
+[node.js]: https://img.shields.io/badge/Node-35495E?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D
+[node-url]: https://nodejs.org/
+[vue.js]: https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[vue-url]: https://vuejs.org/
+[vite.js]: https://img.shields.io/badge/Vite-35495E?style=for-the-badge&logo=vite&logoColor=4FC08D
+[vite-url]: https://vite.org/
+[prisma.js]: https://img.shields.io/badge/Prisma-35495E?style=for-the-badge&logo=prisma&logoColor=4FC08D
+[prisma-url]: https://prisma.io/
+[typescript.js]: https://img.shields.io/badge/Typescript-35495E?style=for-the-badge&logo=typescript&logoColor=4FC08D
+[typescript-url]: https://typescript.org/
 [product-screenshot]: images/screenshot.png
 [logo]: docs/logo.png
 [contact-and-chat-list]: docs/contact-and-chat-list.png
